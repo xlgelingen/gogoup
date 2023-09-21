@@ -541,7 +541,7 @@ button, input, select, textarea {
 }
 
 .charge-live-section{
-    .product-list{
+    .charge-list{
         display: flex;
         flex-flow: wrap;
         justify-content: flex-start;
